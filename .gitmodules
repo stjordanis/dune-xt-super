@@ -16,21 +16,12 @@
 [submodule "dune-geometry"]
 	path = dune-geometry
 	url = http://github.com/dune-community/dune-geometry.git
-[submodule "dune-xt-common"]
-	path = dune-xt-common
-	url = https://github.com/dune-community/dune-xt-common.git
-[submodule "dune-xt-grid"]
-	path = dune-xt-grid
-	url = https://github.com/dune-community/dune-xt-grid.git
 [submodule "scripts"]
 	path = scripts
 	url = https://github.com/wwu-numerik/scripts.git
 [submodule "dune-pybindxi"]
 	path = dune-pybindxi
 	url = https://github.com/dune-community/dune-pybindxi.git
-[submodule "dune-xt-data"]
-	path = dune-xt-data
-	url = https://github.com/dune-community/dune-xt-data.git
 [submodule ".ci/shared"]
 	path = .ci/shared
 	url = https://github.com/dune-community/dune-xt-ci.git
